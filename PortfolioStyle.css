@@ -1,0 +1,25 @@
+nav {
+  background-color:
+  border:
+  color: white;
+  padding: 32px 16px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 20px;
+}
+
+
+h1 {
+  color:rgb(224, 0, 60)
+}
+h1 {
+  font-family:arial, sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 40px;
+}
+
+body {
+  background-color: rgb(252, 211, 224)
+}
